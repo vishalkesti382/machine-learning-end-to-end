@@ -3,7 +3,7 @@ scikit-learn
 fastapi
 gunicorn==19.9.0
 numpy
-pickle5==0.0.12
+pickle5
 matplotlib
 seaborn
 uvicorn
